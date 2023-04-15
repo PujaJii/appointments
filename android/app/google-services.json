@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160327627717",
+    "project_id": "appointments-fb225",
+    "storage_bucket": "appointments-fb225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160327627717:android:a715521bfce25b084811ac",
+        "android_client_info": {
+          "package_name": "com.live.appointments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160327627717-q71hv1tp91kgp6nokjjvbrn0ojh9vgap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.appointments",
+            "certificate_hash": "929670179492c7ddc5b772728a651f0abfa32a79"
+          }
+        },
+        {
+          "client_id": "160327627717-vknp46j616mkrfuupbqrbecahb0nlbvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPAmW0CpFNOiPpBmjFNLsOk_fVQUTxa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160327627717-vknp46j616mkrfuupbqrbecahb0nlbvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
